@@ -30,7 +30,7 @@ knitr::include_graphics("image/path.png")
 
 ## Missing Packages
 
-Most of the warnings are packages missing. Use `install.packages()` to solve this kind of problem. Some of the packages I installed during the process are *bookdown*, *lobstr*, *DBI*, "lobstr", "bench", and "dbplyr".
+Most of the warnings are packages missing. Use `install.packages()` to solve this kind of problem. Some of the packages I installed during the process are *bookdown*, *lobstr*, *DBI*, *lobstr*, *bench*, and *dbplyr*.
 
 
 ## Fonts
